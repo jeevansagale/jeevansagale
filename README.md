@@ -13,7 +13,7 @@ Pimpri Chinchwad College of Engineering (PCCOE)
 Year: First Year (FY)
 
 
-## 📝 Profile Summary
+## 📝 Profile 
 
 
 I am a motivated Computer Engineering undergraduate with a strong interest in software development and web technologies, along with hands-on experience in game development using C++ and Raylib.
