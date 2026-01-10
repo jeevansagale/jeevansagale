@@ -62,6 +62,12 @@ I enjoy building projects from scratch to strengthen my understanding of program
 
 To build a career as a Software Developer with strong web development skills, while pursuing game development as a side gig and creative passion.
 
+## Contact
+
+* 🔗LinkdIn: https://www.linkedin.com/in/jeevan-sagale-3252063a5
+
+* Email: jeevan.sagale25@pccoepune.org
+
 ## 📌 Additional Information
 
 * Date of Birth: 21 November 2007
@@ -69,6 +75,3 @@ To build a career as a Software Developer with strong web development skills, wh
 * Actively learning through personal projects and experimentation
 
 * Open to collaboration and continuous improvement
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevansagale&show_icons=true)
