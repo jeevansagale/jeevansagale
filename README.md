@@ -2,8 +2,7 @@
 
 
 ### **Computer Engineering Student | Aspiring Software Developer**
-📍India
-Pronouns: He/Him
+ 📍 India 🇮🇳 • He/Him
 
 ## 🧑‍🎓 Education
 
@@ -70,3 +69,6 @@ To build a career as a Software Developer with strong web development skills, wh
 * Actively learning through personal projects and experimentation
 
 * Open to collaboration and continuous improvement
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevansagale&show_icons=true)
