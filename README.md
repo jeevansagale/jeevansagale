@@ -1,8 +1,7 @@
-# 👨‍💻 Jeevan Sagale
+# Jeevan Sagale
 
 
-## **Computer Engineering Student | Aspiring Software Developer**
-
+### **Computer Engineering Student | Aspiring Software Developer**
 📍India
 Pronouns: He/Him
 
