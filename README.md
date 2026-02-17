@@ -58,9 +58,6 @@ I enjoy building projects from scratch to strengthen my understanding of program
 
 * Low-level programming concepts
 
-## 🎯 Career Objective
-
-To build a career as a Software Developer with strong web development skills, while pursuing game development as a side gig and creative passion.
 
 ## Contact
 
