@@ -1,74 +1,71 @@
 # Jeevan Sagale
 
+Computer Engineering Student | Software Developer
 
-### **Computer Engineering Student | Aspiring Software Developer**
- 📍 India 🇮🇳 • He/Him
+India • He/Him
 
-## 🧑‍🎓 Education
+## Education
 
+**Bachelor of Technology (B.Tech) – Computer Engineering**  
+Pimpri Chinchwad College of Engineering (PCCOE)  
+First Year (FY)
 
-Bachelor of Technology (B.Tech) – Computer Engineering
-Pimpri Chinchwad College of Engineering (PCCOE)
-Year: First Year (FY)
+## Profile
 
+I am a Computer Engineering undergraduate with a strong interest in software development, graphics programming, and real-time systems. I enjoy building projects from scratch to strengthen my understanding of programming fundamentals, system design, and problem solving.
 
-## 📝 Profile 
+My current work mainly focuses on C++, game development, and experimenting with low-level concepts through personal projects. I actively explore different areas of development to build a strong and versatile technical foundation.
 
-
-I am a motivated Computer Engineering undergraduate with a strong interest in software development and web technologies, along with hands-on experience in game development using C++ and Raylib.
-
-I enjoy building projects from scratch to strengthen my understanding of programming fundamentals, system logic, and clean code practices. Alongside academics, I actively explore different domains of development to build a well-rounded technical foundation.
-
-
-## 💼 Technical Skills
+## Technical Skills
 
 ### Programming Languages
+- C
+- C++
+- Kotlin (Basic)
 
-* C / C++ – Intermediate
+### Development Areas
+- Game Development
+- Software Development
+- Image processing
 
-* Kotlin – Basic (Android Development)
-
-### Web Technologies
-
-* HTML – Basic
-
-* CSS – Basic
-
-### Game Development
-
-* Raylib – 2D game mechanics, UI systems, visual effects
-
-* Godot - Beginner
+### Technologies & Frameworks
+- Raylib
+- Godot (Beginner)
+- OpenCV (C++)
 
 ### Tools
+- Git
+- GitHub
+- Android Studio
+- Visual Studio 2022
 
-* Git & GitHub
+## Areas of Interest
 
-* Android Studio
+- Graphics Programming
+- Real-Time Systems
+- Game Development
+- Problem Solving
+- Low-Level Programming Concepts
+- Software Engineering
 
-## 🛠️ Areas of Interest
+## Projects
 
-* Software Development
-
-* Web Development
-
-* Game Development (side projects & experimentation)
-
-* Problem Solving & Logic Building
-
-* Low-level programming concepts
-
+Currently building and experimenting with:
+- Multiplayer game systems using C++ and Raylib
+- OpenCV-based computer vision projects
+- Graphics and shader experiments
+- Small tools and logic-based applications
 
 ## Contact
 
-* 🔗LinkdIn: https://www.linkedin.com/in/jeevan-sagale-3252063a5
+LinkedIn:  
+<PRIVATE_URL>
 
-* Email: jeevan.sagale25@pccoepune.org
+Email:  
+jeevansagale9@gmail.com
 
-## 📌 Additional Information
+## Additional Information
 
-* Date of Birth: 21 November 2007
-
-* Actively learning through personal projects and experimentation
-
-* Open to collaboration and continuous improvement
+- Continuously learning through hands-on projects and experimentation
+- Interested in building efficient and interactive software systems
+- Open to collaboration and learning opportunities
