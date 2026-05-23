@@ -59,7 +59,7 @@ Currently building and experimenting with:
 ## Contact
 
 LinkedIn:  
-<PRIVATE_URL>
+www.linkedin.com/in/jeevan-sagale-3252063a5
 
 Email:  
 jeevansagale9@gmail.com
