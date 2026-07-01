@@ -1,71 +1,85 @@
 # Jeevan Sagale
 
-Computer Engineering Student | Software Developer
+Computer Engineering Student • C++ Developer • Graphics & Computer Vision Enthusiast
 
-India • He/Him
+I am a Computer Engineering undergraduate at **Pimpri Chinchwad College of Engineering (PCCOE)** with a strong interest in building interactive software, real-time systems, and computer vision applications.
 
-## Education
+My primary language is **C++**, and I enjoy using it to explore game development, graphics programming, and performance-oriented software. I prefer learning through building projects that challenge my understanding of software architecture, problem solving, and system design.
 
-**Bachelor of Technology (B.Tech) – Computer Engineering**  
-Pimpri Chinchwad College of Engineering (PCCOE)  
-First Year (FY)
+## Current Focus
 
-## Profile
-
-I am a Computer Engineering undergraduate with a strong interest in software development, graphics programming, and real-time systems. I enjoy building projects from scratch to strengthen my understanding of programming fundamentals, system design, and problem solving.
-
-My current work mainly focuses on C++, game development, and experimenting with low-level concepts through personal projects. I actively explore different areas of development to build a strong and versatile technical foundation.
+* Modern C++
+* Data Structures & Algorithms
+* Game Development with Raylib
+* Computer Vision using OpenCV
+* Godot & GDScript
+* Software Engineering Practices
 
 ## Technical Skills
 
-### Programming Languages
-- C
-- C++
-- Kotlin (Basic)
+**Languages**
 
-### Development Areas
-- Game Development
-- Software Development
-- Image processing
+* C
+* C++
+* Python (Basic)
+* GDScript (Learning)
 
-### Technologies & Frameworks
-- Raylib
-- Godot (Beginner)
-- OpenCV (C++)
+**Frameworks & Libraries**
 
-### Tools
-- Git
-- GitHub
-- Android Studio
-- Visual Studio 2022
+* Raylib
+* OpenCV
+* Godot Engine
 
-## Areas of Interest
+**Tools**
 
-- Graphics Programming
-- Real-Time Systems
-- Game Development
-- Problem Solving
-- Low-Level Programming Concepts
-- Software Engineering
+* Git
+* GitHub
+* Visual Studio 2022
+* Android Studio
 
 ## Projects
 
-Currently building and experimenting with:
-- Multiplayer game systems using C++ and Raylib
-- OpenCV-based computer vision projects
-- Graphics and shader experiments
-- Small tools and logic-based applications
+### Tactical Shooter Simulator
 
-## Contact
+A multiplayer 3D tactical shooter developed in C++ using Raylib. The project explores gameplay systems, 3D rendering, and multiplayer connectivity through ZeroTier-based virtual networking.
 
-LinkedIn:  
-www.linkedin.com/in/jeevan-sagale-3252063a5
+**Technologies:** C++, Raylib, ZeroTier
 
-Email:  
-jeevansagale9@gmail.com
+---
 
-## Additional Information
+### CityLens
 
-- Continuously learning through hands-on projects and experimentation
-- Interested in building efficient and interactive software systems
-- Open to collaboration and learning opportunities
+Hackathon project developed during **VIT Crescendo '26**. An AI-assisted urban planning platform that integrates geospatial analysis and interactive visualization to support planning decisions.
+
+---
+
+### ZOMSHOOT
+
+A 2D shooter game built with Raylib as a first-semester project to explore game architecture, rendering, collision detection, and gameplay mechanics.
+
+## Coding Profiles
+
+* GitHub: https://github.com/jeevansagale
+* LeetCode: https://leetcode.com/u/jeevansagale/
+* Codeforces: https://codeforces.com/profile/Jeevan_21_11
+
+## Currently Learning
+
+* Graphics Programming
+* Computer Vision
+* Multiplayer Game Development
+* Godot Engine
+* Software Design
+
+## Interests
+
+* Graphics Programming
+* Real-Time Systems
+* Computer Vision
+* Game Development
+* Software Engineering
+* Artificial Intelligence
+
+---
+
+*"I enjoy building software that is interactive, efficient, and solves practical problems while continuously improving my understanding of computer science fundamentals."*
