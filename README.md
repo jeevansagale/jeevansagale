@@ -69,9 +69,6 @@ A carbon footprint tracking platform with data visualization and analytics.
 An AI-assisted urban planning platform built during a hackathon, focused on interactive data visualization.
 `Hackathon Project` `Data Visualization`
 
-**[Medical Barcode Scanner](#)**
-A desktop application using computer vision for inventory assistance via barcode scanning.
-`Python` `OpenCV` `Desktop App`
 
 **🔮 Up Next: Neural Network Library in Modern C++**
 A from-scratch neural network library — planned as a deep dive into both modern C++ and ML fundamentals.
