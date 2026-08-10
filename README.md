@@ -94,7 +94,6 @@ An AI-assisted urban planning platform focused on interactive data visualization
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=c&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Tools**
 
