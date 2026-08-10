@@ -1,137 +1,122 @@
-<h1 align="center">Hi, I'm Jeevan Sagale 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Engineering Undergraduate · C++ Developer · Graphics & Computer Vision Enthusiast</h3>
+# Jeevan Sagale
 
-<p align="center">
-  <a href="https://linkedin.com/in/jeevan-sagale-3252063a5">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jeevansagale9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/jeevansagale/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Jeevan_21_11">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" />
-  </a>
-</p>
+**Computer Engineering Undergraduate · C++ Developer · Systems & Graphics Programming**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevan-sagale-3252063a5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevansagale9@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/jeevansagale/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jeevan_21_11)
+
+</div>
 
 ---
 
-### 👋 About Me
+## About
 
-I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE), and my main language is C++. I'm drawn to understanding how software actually works underneath the API calls — memory management, rendering pipelines, algorithms, and architecture — rather than just using tools at a surface level.
+I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE). My primary language is C++, and most of my work centers on game development and systems-level programming — collision detection, game loops, rendering, and architecture.
 
-I learn best by building. Most of what I know about graphics, systems programming, or computer vision came from a project that forced me to figure it out, not from a tutorial I passively followed. Right now that means building small games and desktop tools in C++ while I strengthen my DSA fundamentals in parallel.
-
-I'm still early in this journey and I like it that way — there's a lot to learn, and I'd rather build things and make mistakes than wait until I feel "ready."
+I learn primarily by building complete, working projects rather than following tutorials passively. Alongside project work, I practice Data Structures & Algorithms consistently on LeetCode and Codeforces.
 
 ---
 
-### 🚧 Currently Working On
+## Currently Working On
 
-- 🎮 A multiplayer tactical shooter in C++ and Raylib
-- 🧠 A carbon footprint tracking web app (EcoTrack AI) using React and Firebase
-- 📊 Strengthening Data Structures & Algorithms through consistent practice
-- 🎨 Learning graphics programming fundamentals through Raylib and OpenGL concepts
+- Strengthening Modern C++ (C++17/20) and Object-Oriented design
+- Data Structures & Algorithms practice
+- Graphics programming fundamentals (Raylib, OpenGL)
+- A from-scratch neural network library in C++, to understand the underlying math behind ML rather than just using existing libraries
 
-### 🌱 Current Learning Roadmap
+---
 
-| Area | What I'm Learning |
+## Learning Roadmap
+
+| Area | Focus |
 |---|---|
-| **Language Depth** | Modern C++ (C++17/20) |
-| **Problem Solving** | Data Structures & Algorithms |
-| **Graphics** | Raylib, OpenGL fundamentals |
-| **Computer Vision** | OpenCV |
-| **Game Development** | Godot Engine |
-| **Software Engineering** | Design Patterns, Software Architecture |
-| **Systems** | Multiplayer Networking |
-| **Practice & Craft** | Git & GitHub workflows, Software Testing |
+| Language Depth | Modern C++ (C++17/20) |
+| Problem Solving | Data Structures & Algorithms |
+| Graphics | Raylib, OpenGL fundamentals |
+| Computer Vision | OpenCV |
+| Game Development | Godot Engine |
+| Software Engineering | Design patterns, architecture |
+| Systems | Multiplayer networking |
+| Practice | Git & GitHub workflows, testing |
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-**[Tactical Shooter Simulator](#)**
-A multiplayer tactical shooter built in C++ with Raylib, focused on real-time gameplay and networked multiplayer mechanics.
-`C++` `Raylib` `Multiplayer Networking`
+**[Tactical Shooter Simulator](https://github.com/jeevansagale/Tactical_Shooter_Simulator)**
+A tactical FPS prototype in C++ with Raylib and OpenGL. Built with a first-person controller, camera system, shooting mechanics, and a modular architecture designed for expansion. Co-developed with a teammate. My most complete project to date.
+`C++` `Raylib` `OpenGL`
 
-**[ZOMSHOOT](#)**
-A 2D shooter game exploring collision detection and game architecture fundamentals.
-`C++` `Raylib` `Game Architecture`
+**[Neural Network in C++](https://github.com/jeevansagale/Neural-Network-using-cpp)**
+A neural network built from scratch in C++ to understand the underlying math used in ML — no external ML libraries. Implements activation functions, dense layers, and loss functions manually.
+`C++`
 
-**[EcoTrack AI](#)**
-A carbon footprint tracking platform with data visualization and analytics.
-`React` `Firebase` `Chart.js`
+**[Vector Assault](https://github.com/jeevansagale/Vector-Assault)**
+A top-down arena shooter built in C++ with Raylib. One of my earliest large-scale projects, built to learn real-time game loops, enemy AI, projectile systems, and collision detection from the ground up.
+`C++` `Raylib`
 
-**[CityLens](#)**
-An AI-assisted urban planning platform built during a hackathon, focused on interactive data visualization.
+**[ZOMSHOOT](https://github.com/jeevansagale/ZOMSHOOT)**
+A 2D shooter exploring collision detection and game architecture fundamentals.
+`C++` `Raylib`
+
+**[Dodge The Block](https://github.com/jeevansagale/Dodge_The_Block)**
+A fast-paced 2D arcade survival game — dodge falling enemies for as long as possible.
+`C++` `Raylib`
+
+**[Quiz](https://github.com/jeevansagale/Quiz)**
+A quiz application built using Raylib and C++.
+`C++` `Raylib`
+
+**[College Simulator](https://github.com/jeevansagale/College_Simulator)**
+A college life simulation game, currently in early development. Core framework, player movement, and UI foundation are in place; campus interaction and gameplay systems are planned.
+`C++` `Raylib`
+
+**[CityLens](https://github.com/jeevansagale/citylens)**
+An AI-assisted urban planning platform focused on interactive data visualization, built as a team hackathon project at Cresendo '26, VIT.
 `Hackathon Project` `Data Visualization`
 
-
-**🔮 Up Next: Neural Network Library in Modern C++**
-A from-scratch neural network library — planned as a deep dive into both modern C++ and ML fundamentals.
-
-> Replace the `#` links above with your actual repository URLs once this is live.
-
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Libraries & Frameworks**
+**Libraries & Engines**
 
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=c&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square&logo=c&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=jeevansagale&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeevansagale&theme=github_dark&hide_border=true&layout=compact" height="165"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jeevansagale&theme=github-dark-blue&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=jeevansagale&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeevansagale&theme=default&hide_border=true&layout=compact&hide=javascript,typescript,html,css,gdscript,batchfile,makefile,dockerfile,cmake,go,plpgsql,pl%2Fpgsql,shell,dockerfile" height="165" alt="Top languages" />
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## Connect
 
-- **LeetCode:** [jeevansagale](https://leetcode.com/u/jeevansagale/)
-- **Codeforces:** [Jeevan_21_11](https://codeforces.com/profile/Jeevan_21_11)
-- **LinkedIn:** [jeevan-sagale](https://linkedin.com/in/jeevan-sagale-3252063a5)
-- **Email:** [jeevansagale9@gmail.com](mailto:jeevansagale9@gmail.com)
-
----
-
-<p align="center"><i>"Consistency beats intensity — one project at a time."</i></p>
+- LeetCode: [jeevansagale](https://leetcode.com/u/jeevansagale/)
+- Codeforces: [Jeevan_21_11](https://codeforces.com/profile/Jeevan_21_11)
+- LinkedIn: [jeevan-sagale](https://linkedin.com/in/jeevan-sagale-3252063a5)
+- Email: [jeevansagale9@gmail.com](mailto:jeevansagale9@gmail.com)
