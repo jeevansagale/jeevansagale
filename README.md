@@ -15,30 +15,31 @@
 
 ## About
 
-I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE). I enjoy building software with C and C++, especially projects involving graphics, game mechanics, algorithms, and low-level concepts. I also use Python while exploring AI and machine learning.
+I'm a Computer Engineering student at Pimpri Chinchwad College of Engineering (PCCOE). I primarily work with C and C++, building projects around game development, graphics, and programming fundamentals. I also use Python to explore AI and machine learning.
 
-I learn by implementing ideas, experimenting with the underlying concepts, and improving projects through iteration. I also explore agentic AI tools as part of my development workflow, while keeping the focus on understanding and validating the code.
+I learn by implementing ideas, understanding the concepts behind them, and improving through hands-on projects. I experiment with agentic AI tools as part of my development workflow, while keeping the focus on understanding and validating the work.
 
 ---
 
 ## Currently Working On
 
-- Exploring CUDA and GPU programming, starting with the fundamentals of parallel computation.
+- Exploring CUDA and GPU programming, starting with parallel-computing fundamentals.
 - Strengthening C++ through graphics programming and systems-oriented projects.
 - Studying AI/ML fundamentals and experimenting with Python.
-- Exploring cybersecurity concepts and practical security fundamentals.
+- Exploring cybersecurity and practical security concepts.
 
 ---
 
-## Areas of Interest
+## Learning Roadmap
 
 | Area | Focus |
 |---|---|
-| AI & Machine Learning | Model fundamentals, implementation, and experimentation |
-| Graphics Programming | Rendering, mathematics, Raylib, and OpenGL |
-| GPU Programming | CUDA and parallel computation |
+| AI & Machine Learning | ML fundamentals, model implementation, Python |
+| Graphics Programming | Raylib, OpenGL, rendering, graphics mathematics |
+| GPU Programming | CUDA, parallel computation |
 | Cybersecurity | Security fundamentals and practical exploration |
-| Systems Programming | Memory, performance, and low-level software |
+| Systems Programming | Memory, performance, and low-level concepts |
+| Problem Solving | Data Structures & Algorithms |
 
 ---
 
@@ -49,7 +50,7 @@ An Android digital-wellbeing application that monitors selected apps and uses co
 `Kotlin` `Android` `Jetpack Compose`
 
 **[Import Contacts](https://github.com/jeevansagale/Import_Contacts)**  
-An Android utility that imports contacts from JSON files or pasted data, with flexible parsing, validation, duplicate detection, and batch insertion.  
+An Android utility for importing contacts from JSON files or pasted data, with flexible parsing, validation, duplicate detection, and batch insertion.  
 `Kotlin` `Android` `Jetpack Compose`
 
 **[Tactical Shooter Simulator](https://github.com/jeevansagale/Tactical_Shooter_Simulator)**  
@@ -60,9 +61,13 @@ A first-person shooter prototype built in C++ with a player controller, camera m
 A top-down arena shooter featuring mouse-directed projectiles, enemy spawning and movement, collision detection, and score-based gameplay.  
 `C++` `Raylib`
 
+**[Learning Graphics Programming](https://github.com/jeevansagale/Learn_Graphics_Programming)**  
+A collection of C++ experiments exploring motion, physics, trigonometry, 3D positioning, collision detection, and sprite animation.  
+`C++` `Raylib`
+
 **[Carbon Footprint](https://github.com/jeevansagale/Carbon_Footprint)**  
-A carbon-footprint assessment project exploring category-based emission estimates, regional data, historical tracking, and sustainability insights.  
-`Python` `Data Analysis` `Agent-assisted Development`
+A team project exploring carbon-footprint assessment, emission estimates, data-driven insights, and AI-assisted sustainability guidance. Developed with an agentic AI-assisted workflow.  
+`AI/ML` `Data Analysis` `Agentic AI`
 
 ---
 
